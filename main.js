@@ -58,7 +58,7 @@ var mouseEvent = "empty";
         ctx.stroke();
         }
 
-    }p
+    }
     
   function my_mouseup(e) {
         canvas.addEventListener("mouseup", mymouseup);
